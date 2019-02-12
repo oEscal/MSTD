@@ -10,5 +10,5 @@ Sets with more sums than differences
  - This solution just  analyzes the sets for a n<=35
 
 ## Problems
- - The C code presented in this repository can have some some unknown bugs, so if you find them, feel free to send me a report 
+ - The C code presented in this repository can have some unknown bugs, so if you find them, feel free to send me a report 
  - My english knowledge isn't the better, so I apologize for some errors that you can find in the code's comments
