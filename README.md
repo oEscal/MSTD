@@ -7,8 +7,9 @@ Sets with more sums than differences
  - This problem was introduced to me by my University algorithm's professor as a problem to defend my grade in that subject
 
 ## Limitations
- - This solution just  analyzes the sets for a n<=35
+ - This solution just analyzes the sets for a n<=35
 
 ## Problems
  - The C code presented in this repository can have some unknown bugs, so if you find them, feel free to send me a report 
  - My english knowledge isn't the better, so I apologize for some errors that you can find in the code's comments
+ - Report in portuguese
